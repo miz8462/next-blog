@@ -25,7 +25,7 @@ export default function Home({ allPostsData }) {
         </title>
       </Head>
       <section className={utilStyle.headingMd}>
-        <p>キキは13歳の女の子です。落ち込んだりもするけど、元気です。</p>
+        <p>キキは13歳の女の子です。落ち込んだりもするけど、元気です。おかあさん。</p>
       </section>
 
       <section>
